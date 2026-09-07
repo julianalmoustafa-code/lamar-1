@@ -27,8 +27,7 @@ export const metadata: Metadata = {
     icon: '/lamar_icon.svg',
     shortcut: '/lamar_icon.svg',
   },
-  verification: {
-google: "Vln0-0yetaf2Z4Ujabbzp20guUmMBVP1sgQUXGjpZtY",
+  verification: {google: "vNn0-0yetaf2Z4UjabBzp2OguUuMbVP1sgQUtGjpZtY",
 },
   title: {
     default: 'LAMAR Stukadoor en Onderhoud | Gipswerk, Decoratie & Renovatie',
