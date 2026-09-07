@@ -92,6 +92,9 @@ export default async function RootLayout({
         '--teal2': accentColor,
       } as React.CSSProperties}
     >
+      <head>
+<meta name="google-site-verification" content="vNn0-0yetaf2Z4UjabBzp2OguUuMbVP1sgQUtGjpZtY" />
+</head>
       <body>
         <Preloader />
         <TopTrustBar />
